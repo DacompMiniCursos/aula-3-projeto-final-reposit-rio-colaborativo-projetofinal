@@ -1,5 +1,9 @@
 saldo_usuario = float(input('Produto: '))
-valor_produto = float(input('Valor: '))
+
+while True:
+    valor_produto = float(input('Valor: '))
+    if valor_produto == 0:
+        break
 
 if valor_produto>= 100:
     valor_produto= valor_produto+valor_produto/10
