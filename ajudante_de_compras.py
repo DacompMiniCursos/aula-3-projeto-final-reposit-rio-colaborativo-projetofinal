@@ -7,6 +7,8 @@ while True:
     valor_produto = float(input('Valor do produto: '))
     if valor_produto == 0:
         break
+    else:
+        valor_produto += valor_produto
 
 if valor_produto>= 100:
     valor_produto= valor_produto+valor_produto/10
