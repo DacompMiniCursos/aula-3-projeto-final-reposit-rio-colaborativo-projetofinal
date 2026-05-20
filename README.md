@@ -1,1 +1,8 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/-nVthp4c)
+-DESCRIÇÃO
+O programa simula um sistema de controle de compras.
+O usuário informa seu saldo disponível e os valores dos produtos que deseja adquirir.
+Os produtos são inseridos um por vez até que o usuário digite 0, indicando o fim da lista. 
+Caso o valor total das compras seja igual ou superior a 100, é aplicado um acréscimo de 10% no valor final.
+Ao final, o sistema compara o custo total com o saldo disponível e informa se a compra pode ser realizada.
+
+CONTRIBUINTES:Lucas ALmeida Cordeiro e João Victor Diniz Pereira
