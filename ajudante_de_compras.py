@@ -1,7 +1,7 @@
-saldo_usuario = float(input('Produto: '))
+saldo_usuario = float(input('Qual o seu saldo? '))
 
 while True:
-    valor_produto = float(input('Valor: '))
+    valor_produto = float(input('Valor do produto: '))
     if valor_produto == 0:
         break
 
@@ -14,5 +14,6 @@ if saldo_restante >= 0:
     
 else:
     print('Não pode comprar.')
+
 # autores
 Lucas e Victor
