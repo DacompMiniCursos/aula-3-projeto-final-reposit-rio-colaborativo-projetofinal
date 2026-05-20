@@ -11,3 +11,4 @@ if saldo_restante >= 0:
 else:
     print('Não pode comprar.')
 # autores
+Lucas e Victor
