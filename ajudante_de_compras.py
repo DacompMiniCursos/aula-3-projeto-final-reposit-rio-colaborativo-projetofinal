@@ -18,7 +18,6 @@ if saldo_restante >= 0:
     print('Pode comprar!')
     
 else:
-    print('Não pode comprar.')
+  print('Não pode comprar.')
 
-# autores
-Lucas e Victor
+# autores Lucas e Victor
